@@ -1,12 +1,12 @@
-# Montage Sourcing Pvt Ltd: Company Website
+# Plutus: Company Website
 
-The official website of **Montage Sourcing Pvt Ltd**, a Noida-based manufacturer and sourcing partner for precision HVAC components.
+The official website of **Plutus**, a Noida-based manufacturer and sourcing partner for precision HVAC components.
 
 **Live site:** https://montagesourcing.netlify.app
 
 ## About the project
 
-This is a single-page company website built to introduce Montage to international buyers. It covers:
+This is a single-page company website built to introduce Plutus to international buyers. It covers:
 
 - **Products:** heat exchanger coils, copper assemblies, fans and dampers, sheet metal and ducting
 - **Capabilities:** build-to-print manufacturing from customer drawings
@@ -46,4 +46,4 @@ No installation needed. Download the repository and open `index.html` in any bro
 
 ## Author
 
-**Akhil Upadhyay**, Data Scientist at Montage Sourcing Pvt Ltd
+**Akhil Upadhyay**, Data Scientist at Plutus
